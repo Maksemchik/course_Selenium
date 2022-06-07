@@ -1,2 +1,2 @@
 # course_Selenium
-Домашние задачи курса по Selenium https://stepik.org/course/575/syllabus
+Репозиторий для домашних задач курса по Selenium https://stepik.org/course/575/syllabus
